@@ -1,0 +1,20 @@
+<svg width="16" height="17" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>share-symbol copy</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-7031 -2665)">
+<g id="share-symbol copy">
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Clip 2">
+<use xlink:href="#path0_fill" transform="translate(7030.33 2664.17)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Fill 1" mask="url(#mask0_outline)">
+<use xlink:href="#path1_fill" transform="translate(7031.35 2665.19)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 16.3333 0L 16.3333 18.375L 0 18.375L 0 0Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 12.759 11.5456C 12.1131 11.5456 11.5348 11.7899 11.0943 12.1751L 5.02792 8.77372C 5.07172 8.58528 5.10559 8.39529 5.10559 8.19938C 5.10559 8.00332 5.07091 7.81411 5.02792 7.62489L 11.0258 4.25544C 11.4832 4.66381 12.0882 4.91908 12.759 4.91908C 14.173 4.91908 15.3125 3.82261 15.3125 2.45944C 15.3125 1.09903 14.1722 0 12.759 0C 11.3478 0 10.2075 1.09903 10.2075 2.45886C 10.2075 2.65748 10.2422 2.84398 10.2852 3.0332L 4.28735 6.40537C 3.82921 5.99506 3.22492 5.74052 2.55348 5.74052C 1.13946 5.74052 0 6.83897 0 8.19938C 0 9.55979 1.13946 10.6589 2.55348 10.6589C 3.22411 10.6589 3.82921 10.4036 4.28671 9.99534L 10.3424 13.4043C 10.3008 13.5777 10.2747 13.7587 10.2747 13.9392C 10.2747 15.2595 11.3908 16.3333 12.7582 16.3333C 14.127 16.3333 15.2439 15.2601 15.2439 13.9392C 15.2439 12.6182 14.1278 11.5456 12.759 11.5456Z"/>
+</defs>
+</svg>

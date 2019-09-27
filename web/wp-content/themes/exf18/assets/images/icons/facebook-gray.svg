@@ -1,0 +1,20 @@
+<svg width="30" height="30" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>facebook copy 6</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-19262 -2594)">
+<g id="ico/social/facebook copy 6">
+<g id="social_facebook">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(19262 2594.48)" fill="#A2A7AF"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(19273.4 2601.85)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 15 29.5161C 23.2843 29.5161 30 22.9087 30 14.7581C 30 6.60741 23.2843 4.99084e-16 15 0C 6.71573 -4.99084e-16 1.01453e-15 6.60741 0 14.7581C -1.01453e-15 22.9087 6.71573 29.5161 15 29.5161"/>
+<path id="path1_fill" d="M 0 4.89695L 1.55294 4.89695L 1.55294 3.41246C 1.48208 2.6161 1.65738 1.81726 2.05588 1.12062C 2.62059 0.359457 3.54484 -0.0607434 4.5 0.00942198C 5.43528 -0.0316915 6.37164 0.0618971 7.27941 0.287221L 6.89118 2.54434C 6.48541 2.43465 6.0677 2.37344 5.64706 2.36203C 5.03824 2.36203 4.5 2.57906 4.5 3.16938L 4.5 4.90563L 6.97059 4.90563L 6.80294 7.11065L 4.5 7.11065L 4.5 14.7848L 1.58824 14.7848L 1.58824 7.10197L 0 7.10197L 0 4.89695Z"/>
+</defs>
+</svg>

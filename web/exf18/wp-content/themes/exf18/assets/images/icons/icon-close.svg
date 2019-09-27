@@ -1,0 +1,34 @@
+<svg width="11" height="11" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>white copy 2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-13499 -674)">
+<g id="ico/close/white copy 2">
+<g id="Group">
+<g id="VIDEO Copy">
+<g id="ico/arrow/red">
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(13504.5 675)" fill="#FFFFFF"/>
+</g>
+<g id="Line Copy">
+<use xlink:href="#path0_stroke" transform="matrix(1 0 0 -1 13504.5 684)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="VIDEO Copy 4">
+<g id="ico/arrow/red">
+<g id="Line">
+<use xlink:href="#path1_stroke" transform="matrix(-1 0 0 1 13504.5 675.205)" fill="#FFFFFF"/>
+</g>
+<g id="Line Copy">
+<use xlink:href="#path1_stroke" transform="matrix(-1 0 -0 -1 13504.5 684)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 4.78469 0.404423L 5.13679 0.0494201L 4.42678 -0.654775L 4.07468 -0.299772L 4.78469 0.404423ZM -0.284691 4.09558L -0.636788 4.45058L 0.073218 5.15478L 0.425316 4.79977L -0.284691 4.09558ZM 4.07468 -0.299772L -0.284691 4.09558L 0.425316 4.79977L 4.78469 0.404423L 4.07468 -0.299772Z"/>
+<path id="path1_stroke" d="M 4.78062 0.407291L 5.13677 0.0563586L 4.43491 -0.655951L 4.07875 -0.305018L 4.78062 0.407291ZM -0.28062 3.99044L -0.636775 4.34137L 0.0650903 5.05368L 0.421245 4.70275L -0.28062 3.99044ZM 4.07875 -0.305018L -0.28062 3.99044L 0.421245 4.70275L 4.78062 0.407291L 4.07875 -0.305018Z"/>
+</defs>
+</svg>

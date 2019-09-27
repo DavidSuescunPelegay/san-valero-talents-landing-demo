@@ -1,0 +1,58 @@
+<svg width="9" height="12" viewBox="0 0 9 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>red</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-13550 -1382)">
+<rect x="13550" y="1382" width="9" height="12" fill="#FFFFFF"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 12442 -233L 13722 -233L 13722 4543L 12442 4543L 12442 -233Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="1280_04_Ciudad_01Landing" clip-path="url(#clip-0)">
+<path d="M 12442 -233L 13722 -233L 13722 4543L 12442 4543L 12442 -233Z" fill="#F9F9FB"/>
+<g id="Metro Copy 2">
+<g id="Rectangle 5" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(12519 268)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="mod/city/icon copy">
+<g id="mod/post">
+<g id="003">
+<g id="Rectangle 6">
+<use xlink:href="#path1_fill" transform="translate(13273 743)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(13273 743)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(13273 743)" fill="#E8E8E8"/>
+</g>
+</g>
+</g>
+</g>
+<g id="btn/enlace/lightblue">
+<g id="ico/arrow/red">
+<g id="Line">
+<use xlink:href="#path3_stroke" transform="matrix(-1 0 0 1 13557.5 1383)" fill="#00A4FF"/>
+</g>
+<g id="Line Copy">
+<use xlink:href="#path3_stroke" transform="matrix(-1 0 -0 -1 13557.5 1393)" fill="#00A4FF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="12489" y="246" width="1187" height="2709" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="8"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 1127 0L 1127 2649L 0 2649L 0 0Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 0L 330 0L 330 674L 0 674L 0 0Z"/>
+<path id="path2_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 330 0L 331 0L 331 -1L 330 -1L 330 0ZM 330 674L 330 675L 331 675L 331 674L 330 674ZM 0 674L -1 674L -1 675L 0 675L 0 674ZM 0 1L 330 1L 330 -1L 0 -1L 0 1ZM 329 0L 329 674L 331 674L 331 0L 329 0ZM 330 673L 0 673L 0 675L 330 675L 330 673ZM 1 674L 1 0L -1 0L -1 674L 1 674Z"/>
+<path id="path3_stroke" d="M 6.73161 0.453873L 7.12734 0.148267L 6.51613 -0.6432L 6.12039 -0.337594L 6.73161 0.453873ZM -0.203606 4.54613L -0.599339 4.85173L 0.0118724 5.6432L 0.407606 5.33759L -0.203606 4.54613ZM 6.12039 -0.337594L -0.203606 4.54613L 0.407606 5.33759L 6.73161 0.453873L 6.12039 -0.337594Z"/>
+</defs>
+</svg>

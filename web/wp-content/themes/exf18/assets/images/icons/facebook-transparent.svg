@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>ico/social/facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ico/social/facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social_facebook" fill-rule="nonzero">
+            <path d="M17,34 C26.3888407,34 34,26.3888407 34,17 C34,7.61115925 26.3888407,5.74900688e-16 17,0 C7.61115925,-5.74900688e-16 1.14980138e-15,7.61115925 0,17 C-1.14980138e-15,26.3888407 7.61115925,34 17,34" id="Shape" fill="#FF3700"></path>
+            <path d="M12.9,14.13 L14.66,14.13 L14.66,12.42 C14.5796856,11.5026709 14.7783641,10.5824762 15.23,9.78 C15.8700063,8.90320947 16.9174858,8.41917563 18,8.5 C19.0599823,8.45264091 20.1211961,8.56044675 21.15,8.82 L20.71,11.42 C20.2501344,11.2936512 19.776726,11.2231436 19.3,11.21 C18.61,11.21 18,11.46 18,12.14 L18,14.14 L20.8,14.14 L20.61,16.68 L18,16.68 L18,25.52 L14.7,25.52 L14.7,16.67 L12.9,16.67 L12.9,14.13 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

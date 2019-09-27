@@ -1,0 +1,17 @@
+<svg width="6" height="12" viewBox="0 0 6 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>red</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-5080 -85)">
+<g id="ico/arrow/red">
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="matrix(-1 0 0 1 5085 86)" fill="#00A4FF"/>
+</g>
+<g id="Line Copy">
+<use xlink:href="#path0_stroke" transform="matrix(-1 0 -0 -1 5085 96)" fill="#00A4FF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 4.32918 0.368921L 4.63996 -0.0227615L 3.8566 -0.644324L 3.54582 -0.252642L 4.32918 0.368921ZM -0.329182 4.63108L -0.639964 5.02276L 0.143401 5.64432L 0.454182 5.25264L -0.329182 4.63108ZM 3.54582 -0.252642L -0.329182 4.63108L 0.454182 5.25264L 4.32918 0.368921L 3.54582 -0.252642Z"/>
+</defs>
+</svg>

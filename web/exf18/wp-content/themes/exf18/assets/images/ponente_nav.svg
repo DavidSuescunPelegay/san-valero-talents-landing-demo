@@ -1,0 +1,19 @@
+<svg width="10" height="24" viewBox="0 0 10 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>VIDEO Copy 2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-16795 -503)">
+<g id="VIDEO Copy 2">
+<g id="ico/arrow/red">
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(16796 504.5)" fill="#E73F31"/>
+</g>
+<g id="Line Copy">
+<use xlink:href="#path0_stroke" transform="matrix(1 0 0 -1 16796 526)" fill="#0779BF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 8.27729 0.421926L 8.57421 0.0196391L 7.76964 -0.574213L 7.47271 -0.171926L 8.27729 0.421926ZM -0.277287 10.3281L -0.574213 10.7304L 0.230361 11.3242L 0.527287 10.9219L -0.277287 10.3281ZM 7.47271 -0.171926L -0.277287 10.3281L 0.527287 10.9219L 8.27729 0.421926L 7.47271 -0.171926Z"/>
+</defs>
+</svg>

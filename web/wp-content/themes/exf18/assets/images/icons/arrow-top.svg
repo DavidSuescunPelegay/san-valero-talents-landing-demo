@@ -1,0 +1,27 @@
+<svg width="36" height="36" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>blue</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-694 -787)">
+<g id="ico/backtotop/blue">
+<g id="social_linkedin">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(695 788)" fill="#0779BF"/>
+</g>
+</g>
+<g id="Group">
+<g id="ico/arrow/white">
+<g id="Line">
+<use xlink:href="#path1_stroke" transform="matrix(-6.12323e-17 1 1 6.12323e-17 706 803)" fill="#E73F31"/>
+</g>
+<g id="Line Copy">
+<use xlink:href="#path1_stroke" transform="matrix(-6.12323e-17 1 -1 -6.12323e-17 718.667 803)" fill="#0779BF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 17 34.5C 26.665 34.5 34.5 26.665 34.5 17L 33.5 17C 33.5 26.1127 26.1127 33.5 17 33.5L 17 34.5ZM 34.5 17C 34.5 7.33502 26.665 -0.5 17 -0.5L 17 0.5C 26.1127 0.5 33.5 7.8873 33.5 17L 34.5 17ZM 17 -0.5C 7.33502 -0.5 -0.5 7.33502 -0.5 17L 0.5 17C 0.5 7.8873 7.8873 0.5 17 0.5L 17 -0.5ZM -0.5 17C -0.5 26.665 7.33502 34.5 17 34.5L 17 33.5C 7.8873 33.5 0.5 26.1127 0.5 17L -0.5 17Z"/>
+<path id="path1_stroke" d="M 5.07696 0.372065L 5.37538 -0.0291139L 4.57302 -0.625957L 4.2746 -0.224778L 5.07696 0.372065ZM -0.32696 5.96127L -0.625382 6.36245L 0.176976 6.95929L 0.475398 6.55811L -0.32696 5.96127ZM 4.2746 -0.224778L -0.32696 5.96127L 0.475398 6.55811L 5.07696 0.372065L 4.2746 -0.224778Z"/>
+</defs>
+</svg>

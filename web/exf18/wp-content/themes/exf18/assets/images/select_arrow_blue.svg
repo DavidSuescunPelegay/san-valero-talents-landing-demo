@@ -1,0 +1,17 @@
+<svg width="12" height="5" viewBox="0 0 12 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>white</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-10210 -7406)">
+<g id="ico/arrow/white" opacity="0.25">
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 10220.5 7409.5)" fill="#00A4FF"/>
+</g>
+<g id="Line Copy">
+<use xlink:href="#path0_stroke" transform="matrix(6.12323e-17 -1 1 6.12323e-17 10211.5 7409.5)" fill="#00A4FF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 2.42627 0.254004L 2.62795 -0.203517L 1.71291 -0.606874L 1.51123 -0.149353L 2.42627 0.254004ZM -0.426271 4.246L -0.62795 4.70352L 0.287093 5.10687L 0.488771 4.64935L -0.426271 4.246ZM 1.51123 -0.149353L -0.426271 4.246L 0.488771 4.64935L 2.42627 0.254004L 1.51123 -0.149353Z"/>
+</defs>
+</svg>
